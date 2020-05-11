@@ -24,4 +24,4 @@ You can narrow down this list accordig to your needs.
 4. Not every book has its epub version, thus we use try-except handling in our code. (It is always a good practice to use exceptions handling to avoid crashes of the code in uncertain environment).
 
 # Disclaimer
-We emphasize, that this script (from our side) was written only as an programming exercise in python. We do not use it in any systematic manner, we do not suggest to use it before you become familiar with Springer's General Term of Use. We do not suggest to use it or any part of it on any content that was not defined as free content by the publisher.
+We emphasize, that this script (from our side) was written only as a programming exercise in python. We do not use it in any systematic manner, we do not suggest to use it before you become familiar with Springer's General Term of Use. We do not suggest to use it or any part of it on any content that was not defined as free content by the publisher.
